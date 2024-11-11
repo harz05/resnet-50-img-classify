@@ -18,7 +18,4 @@ This project uses TensorFlow and Keras to perform image classification with the 
 - Pillow
 - Requests
 
-You can install the required libraries by running:
-
-```bash
-pip install tensorflow numpy opencv-python matplotlib pillow requests
+this can be run on google colab
